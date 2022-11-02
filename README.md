@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing my Bachelors in Computer Science at D.Y.Patil college of Science and Computer Science.
 - 💼 &nbsp; Student.
-- 🌱 &nbsp; Enthusiast in Cyber Security, Software Development, Artificial Intelligence and Cloud Computing .
+- 🌱 &nbsp; Enthusiast in Cyber Security, Software Development, AI, Data Science and Cloud Computing .
 - ✍️ &nbsp; Professional gamer and Wildlife/Astro Photography enthusiast.
 - ☕ &nbsp; Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
